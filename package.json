@@ -1,0 +1,24 @@
+{
+  "name": "simple-gulp",
+  "version": "1.0.0",
+  "description": "simple-gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleksanderjedynak/simple-gulp.git"
+  },
+  "author": "Aleksander Jedynak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleksanderjedynak/simple-gulp/issues"
+  },
+  "homepage": "https://github.com/aleksanderjedynak/simple-gulp#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.7",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
